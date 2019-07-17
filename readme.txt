@@ -7,6 +7,9 @@ AQI:         Level:                          Color:    sim800l sms notif:
 301 PPM up   Hazardous                       (maroon)   auto sms notif 
 
 
+used powershell:
+php -S 0.0.0.0:8081
+
 http://airduino-ph.000webhostapp.com/admin
 admin
 admin@123
